@@ -14,5 +14,3 @@ let details = {
 console.log(`Hello World, this is David Kemdirim  with HNGi7 ID: HNG-00819  using JavaScript  for stage 2 task`)
 
 
-
-outputFunction(details)
